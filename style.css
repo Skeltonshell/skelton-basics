@@ -3,6 +3,13 @@ body {
     color: rgb(250, 244, 244);
     background-color: black;
     font-family: 'Noto Sans', sans-serif;
-
     
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer {
+    padding-top: 10px;
 }
